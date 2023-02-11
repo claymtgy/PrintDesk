@@ -10,3 +10,6 @@ If you need to get more fields, or custom fields, from FreshDesk, just follow th
 I can help you if you need specific directions. But start by just printing the entire JSON of the ticket to
 see what information you can pull from FreshDesk. Then if you search the JSON for the correct label, the extract
 module will save all items with that laabel as a list. 
+
+
+Thanks.
