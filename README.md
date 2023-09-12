@@ -1,4 +1,7 @@
 # PrintDesk
+
+A more up-to-date version is available in a private repo. I'm currently getting it ready to be published publicly.
+
 A simple interface to print ticket information from FreshDesk
 
 We use it to print out receipts to attach to computers to help with organization
